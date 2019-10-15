@@ -136,3 +136,26 @@ comment: |
 jatOezfagPJVnXLkbjp6dHas4Efp8Jqk280lkWjGF5BtG0Hn4Vv_gHukrRg3t1EY8j5NOrHn8AeaqfZe_ESFCQ
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-10-15T16:13:43.929157886-04:00"
+from:
+  id-type: crev
+  id: V_B2pKpHVBIp_NegKfur4MK9GqFo0o78ijhku90pYS0
+  url: "https://github.com/remram44/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: read_color
+  version: 1.0.0
+  digest: pNB6OXr_1RitJV3ZuY_SjDuaqDMkud_b5JCGpy02dgw
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |
+  Very straightforward library which does one simple thing (reads RGB colors
+  from hex characters). Could use some tests.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+qYKxuWk8q3rfEDrPLeLDklOJqe7Q-4i7cegklHC30JEpHo57skvbnuSWfC_0vKF3B0j6cnhSj0xhPqU16TmjCg
+-----END CREV PACKAGE REVIEW-----
+
