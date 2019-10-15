@@ -1,0 +1,23 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-10-15T13:23:22.779863160-04:00"
+from:
+  id-type: crev
+  id: V_B2pKpHVBIp_NegKfur4MK9GqFo0o78ijhku90pYS0
+  url: "https://github.com/remram44/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: adler32
+  version: 1.0.3
+  digest: 1xZtPYhQRdrG9gV7uUut69vCzJUqGULdKFo2mdIi5uc
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |
+  I wrote this. No unsafe code, no dependencies.
+  No code change from 1.0.2, only clarified licenses.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+oFxRHpN3nTlT8MIDhWTvZKJ_6Hmy_GoWq7RqcEJDZMSwZH_JWpjyVy5UI7jajJgVxpxS7GKWDLsL-NQFE9q2CA
+-----END CREV PACKAGE REVIEW-----
+
