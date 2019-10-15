@@ -91,3 +91,25 @@ comment: |
 GWhGh30Zo5vA2296yQq45IHwvCwgtCoJP5GA5tZzUjXwLc291do7ScL93ECXtWgXrS0gp7Hwq0HslYmZgLI2DA
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-10-15T14:00:59.757470516-04:00"
+from:
+  id-type: crev
+  id: V_B2pKpHVBIp_NegKfur4MK9GqFo0o78ijhku90pYS0
+  url: "https://github.com/remram44/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cdchunking
+  version: 0.2.1
+  digest: lmgn5PK2BHN5_ZB6mP_htRK3d9Gct-NUCuBA7lpfWWk
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |
+  I wrote this. No unsafe, no dependencies, no dangerous imports.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+AD6J3gtVqd-nAu3pyaSTrgV_351iCdw1eCMaKCwGuT-3VquAjDAstkRM_LvRDN50OPTISx8KduE68_R589TVCg
+-----END CREV PACKAGE REVIEW-----
+
