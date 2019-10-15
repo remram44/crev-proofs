@@ -113,3 +113,26 @@ comment: |
 AD6J3gtVqd-nAu3pyaSTrgV_351iCdw1eCMaKCwGuT-3VquAjDAstkRM_LvRDN50OPTISx8KduE68_R589TVCg
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-10-15T15:59:31.279498194-04:00"
+from:
+  id-type: crev
+  id: V_B2pKpHVBIp_NegKfur4MK9GqFo0o78ijhku90pYS0
+  url: "https://github.com/remram44/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: piston
+  version: 0.49.0
+  revision: 6275b63dc652d3362e8edb7037877dd14c7b92e1
+  digest: gsdPgp1x6oaIO62S1LGO8dNLh0NhrCtLa2lGZ-uUjVY
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+comment: |
+  This crate has no code, it re-exports from its dependencies.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+jatOezfagPJVnXLkbjp6dHas4Efp8Jqk280lkWjGF5BtG0Hn4Vv_gHukrRg3t1EY8j5NOrHn8AeaqfZe_ESFCQ
+-----END CREV PACKAGE REVIEW-----
+
