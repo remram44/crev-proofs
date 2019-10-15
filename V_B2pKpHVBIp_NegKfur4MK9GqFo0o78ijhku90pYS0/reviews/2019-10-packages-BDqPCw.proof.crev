@@ -159,3 +159,26 @@ comment: |
 qYKxuWk8q3rfEDrPLeLDklOJqe7Q-4i7cegklHC30JEpHo57skvbnuSWfC_0vKF3B0j6cnhSj0xhPqU16TmjCg
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-10-15T16:38:00.009369906-04:00"
+from:
+  id-type: crev
+  id: V_B2pKpHVBIp_NegKfur4MK9GqFo0o78ijhku90pYS0
+  url: "https://github.com/remram44/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rusttype
+  version: 0.7.9
+  revision: b9ada6419bb8e07c8ec47ffc8d906eb160afb735
+  digest: OmEab4kcW8XHeFtx-4gDq-RLxuabxdX4outnyc64e6k
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |
+  Simply depends on and re-export rusttype 0.8.0
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+hYw2o9wFgdMfIInjcdOTNZGW2YErZee4BDy0105FlgBoPFRMTRHduahjePnrR8M8PbVVcrRGAX2hbczZjxiFBQ
+-----END CREV PACKAGE REVIEW-----
+
