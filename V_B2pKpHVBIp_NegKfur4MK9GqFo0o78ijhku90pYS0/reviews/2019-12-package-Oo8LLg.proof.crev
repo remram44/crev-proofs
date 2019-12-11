@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2019-12-11T16:36:58.516035386-05:00"
+from:
+  id-type: crev
+  id: V_B2pKpHVBIp_NegKfur4MK9GqFo0o78ijhku90pYS0
+  url: "https://github.com/remram44/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: linfa
+  version: 0.1.2
+  revision: 0a23e4f25b29022ff752f2dedd36259fdbb91e17
+  digest: 4M-Zyz07510AxS-w46qJ8ZzVuXfroDdsMhgedPxlCWE
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: "No content, just re-exports crate `linfa-clustering`.\n"
+----- SIGN CREV PROOF -----
+8VVQ-Oc9rzDTudFRSXPJbexvsK7JLybuZ64UiqWhgy5yDEklOQyYZfe4rXGRmqp8glgOI6wMvWhwm4uSiHdGDw
+----- END CREV PROOF -----
+
