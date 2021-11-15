@@ -22,3 +22,27 @@ comment: |-
 4Hu-szp9sHlOVzdAy43yPWG5H5ilSlionEcKXiStJV7eXhke3XJ-4jeIsYtxh4W5pDw8Zbgi--_0cMxcJA_4BA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-14T22:22:09.875382645-05:00"
+from:
+  id-type: crev
+  id: V_B2pKpHVBIp_NegKfur4MK9GqFo0o78ijhku90pYS0
+  url: "https://github.com/remram44/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: adler32
+  version: 1.2.0
+  revision: 2ff95ca1db58c9db85ddaf59e4755e4ae94ac49d
+  digest: QAoVnCJeQEpQd9t2vpsMgviAWkh3usOcLWtCCzujPew
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I wrote this. No unsafe code, no dependencies.
+----- SIGN CREV PROOF -----
+t4JNPxo4YJ-zRbNrPTesPvJq6T2teSidiFqv_Tml1PCSNS7Ewl5HyS1yMpAQ6m3MAKhQW4EPnXjii1ezi3rqAw
+----- END CREV PROOF -----
+
